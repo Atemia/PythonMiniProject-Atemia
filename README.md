@@ -1,8 +1,11 @@
 # PythonMiniProject
 Mini-project for the Python for Biologist class at Pwani University
 
+
 ## Introduction
-The Protein Data Bank (PDB) is an important resource that contains information of 3D structures of large biological molecules. The information can be access through the website (http://www.pdb.org/)
+The Protein Data Bank (PDB) is an important resource that contains information of 3D structures of large biological molecules described by a pdb file. The information can be access through the website (http://www.pdb.org/).
+
+The main objective the project is to come up with a software that get information from a PDB file and run basic analysis on it. 
 
 ## Contents
 The project is broken into the following sections.
