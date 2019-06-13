@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # FUNCTIONS/SOFTWARE TOOLS
 
 ## MAIN DISPALY MENU
@@ -453,7 +455,7 @@ def choiceX():
 def mainMenu():
     """Function: Runs the software by calling various defined functions for the different options and also the display of the software"""
     import sys
-    import pdbSoftwareTools
+    #import pdbSoftwareTools
     red = lambda text: '\033[0;31m' + text + '\033[0m'
     
     global file
